@@ -1,5 +1,7 @@
 # openai-realtime-api <!-- omit from toc -->
 
+A fork of [openai-realtime-api](https://github.com/transitive-bullshit/openai-realtime-api) with added CommonJS support. This package provides both ESM and CJS builds while maintaining all the original functionality.
+
 > TypeScript client for OpenAI's realtime voice API.
 
 <p>
